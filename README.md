@@ -1,3 +1,5 @@
+# :exclamation: A re-write of this app is happening [here](https://github.com/razinj/context_launcher).
+
 # Context Launcher
 
 Context Launcher is an Android list-based launcher made to be simple, practical and straight forward to use.
