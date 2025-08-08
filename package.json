@@ -35,7 +35,7 @@
     "@babel/core": "^7.20.0",
     "@babel/preset-env": "^7.20.0",
     "@babel/preset-typescript": "^7.24.7",
-    "@babel/runtime": "^7.20.0",
+    "@babel/runtime": "^7.28.2",
     "@jest/globals": "^29.7.0",
     "@react-native/babel-preset": "0.73.21",
     "@react-native/eslint-config": "0.73.2",
